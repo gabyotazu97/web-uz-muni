@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Center the image horizontally */
+.centered-image {
+    display: flex;
+    justify-content: center;
+}
+
+/* Add some space below the image for the description */
+.image-description {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333; /* Adjust the color as needed */
+}
+
+.bloque1-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+
+.centered-image img {
+    vertical-align: middle;
+    height: 150px;
+    width: 150px;
+}
+
+.title-zoo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,51 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar, .footer-nav {
+    background-color: #fff;
+    padding: 10px;
+    /* Add more styling for navigation bars */
+  }
+  
+  .main-content {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .zoonosis-unit {
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 20px;
+    margin-bottom: 10px;
+    /* Add more styling for sections */
+  }
+  
+  .info h1 {
+    color: #000;
+  }
+  
+  .info p {
+    color: #333;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .footer {
+    background-color: #fff;
+    padding: 10px;
+    /* Add more styling for footer */
+  }
+
+  .centered-image img {
+    vertical-align: middle;
+    height: 150px;
+    width: 150px;
+}     
